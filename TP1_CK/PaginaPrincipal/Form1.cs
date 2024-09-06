@@ -27,5 +27,11 @@ namespace PaginaPrincipal
             Ejercicio1 ejercicio1 = new Ejercicio1();
             ejercicio1.Show();
         }
+
+        private void btnEjercicio2_Click(object sender, EventArgs e)
+        {
+            Ejercicio2 ejercicio2 = new Ejercicio2();
+            ejercicio2.Show();
+        }
     }
 }
