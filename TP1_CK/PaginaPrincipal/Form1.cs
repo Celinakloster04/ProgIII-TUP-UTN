@@ -33,5 +33,11 @@ namespace PaginaPrincipal
             Ejercicio2 ejercicio2 = new Ejercicio2();
             ejercicio2.Show();
         }
+
+        private void btnEjercicio3_Click(object sender, EventArgs e)
+        {
+            Ejercicio3 ejercicio3 = new Ejercicio3();
+            ejercicio3.Show();
+        }
     }
 }
